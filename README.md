@@ -5,7 +5,7 @@ This repository contains a list of all the projects completed during my manual t
 
 | Project Name | Description | Tools Used |
 |--------------|-------------|------------|
-| Project 1    | MANA | JIRA, POSTMAN and TestRail |
+| Project 1    | MANA(Internal) | JIRA, POSTMAN and TestRail |
 | Project 2    | Ubisoft Store | JIRA, Testrail and Xbox GDK |
 | Project 3    |  |  |
 
